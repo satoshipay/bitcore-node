@@ -1,3 +1,6 @@
+# Some remarks by Levin
+We forked this in order to use our own patched version of bitcore-lib which has "soft-include-guards" and does not crash if two versions of bitcore-lib are found. Handy for using npm link.
+
 Bitcore Node
 ============
 
